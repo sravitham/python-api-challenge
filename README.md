@@ -18,9 +18,9 @@
     * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 * Identifying the best locations for a vacation with the below parameters:
     * List of Ideal weather conditions: 
-    * Temp: 70 -85
-    * Wind Speed: less than 8 mph
-    * Cloudiness: less than 30%
+    * Temp: 70 -80
+    * Wind Speed: less than 5 mph
+    * Cloudiness: less than 5%
 * Creating a heat map with the best locations and the relative hotels in a 5000 meter radius 
 
 
